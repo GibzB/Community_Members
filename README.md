@@ -45,8 +45,6 @@ flowchart LR
 - ### **A**
 [Auralia Malik](https://github.com/AURALIA-MALIK)
 - ### **B**
-[Billy Gibendi](https://github.com/GibzB)
-    
 [Brian Kepha](https://github.com/AngelofVerdant)
 
 [Brian Ngugi](https://github.com/CARTOON01)
@@ -62,6 +60,8 @@ flowchart LR
 - ### **F**
 - ### **G**
 [Gekko Wrld](https://github.com/gekkowrld)
+
+[Gibx](https://github.com/GibzB)
 - ### **H**
 - ### **I**
 [Iha Thoya](https://github.com/deadboneiha)
